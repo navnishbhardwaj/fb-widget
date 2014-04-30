@@ -1,0 +1,48 @@
+#fb_widget_dyc .wp-submenu .wp-first-item {
+	display: none;
+}
+
+.tip{position: relative;top:3px;}
+.cmb_radio_inline_option {
+display: inline;
+padding-right: 18px;
+}
+.ads_bar{width:30%;margin-right:20px;margin-top:10px;}
+.right{float:right;}
+
+.left{float:left;}
+.settings_wrap{width:65%;margin-top:10px};
+#fb_widget select,
+#fb_widget input[type="text"],
+#fb_widget input[type="file"] {
+    min-width: 200px;
+}
+#fb_widget label code {
+	background: none;
+}
+#fcbk_share {
+	clear: both;
+	height: 40px;
+}
+.fb_fanbx_css {
+	float: left;
+	margin-right: 10px;
+}
+.fb_fanbx_css a {
+	height: 40px;
+	display: block;
+}
+.fb_fanbx_css a:hover {
+	opacity: 0.9;
+}
+.fb_like_btn {
+	float: left;
+	position: relative;
+	top: -3px;
+}
+.fb_edge_widget_with_comment span {
+	width: 450px !important;
+}
+.fb_like_btn iframe {
+	max-width: 450px;
+}
